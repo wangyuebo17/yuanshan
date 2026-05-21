@@ -1,4 +1,6 @@
-![远山宣传图](assets/yuanshan-cover.png)
+<p align="center">
+  <img src="yuanshan-cover.png" alt="远山宣传图" width="100%">
+</p>
 # 远山：能受用一生的 Obsidian 完整文件规划
 
 > 一套以「二字纲目 + 古典短题 · 现代释义」为核心的长期知识库目录方案。
